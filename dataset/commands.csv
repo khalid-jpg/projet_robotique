@@ -1,0 +1,81 @@
+text,intent,parameter
+Va dans la cuisine,navigate,kitchen
+Va dans le salon,navigate,living_room
+Va dans la chambre,navigate,bedroom
+Va dans la salle de bain,navigate,bathroom
+Va dans le bureau,navigate,office
+Déplace-toi dans la cuisine,navigate,kitchen
+Rends-toi dans le salon,navigate,living_room
+Rends-toi dans la chambre,navigate,bedroom
+Je veux que tu ailles dans la cuisine,navigate,kitchen
+Peux-tu aller dans le bureau ?,navigate,office
+Dirige-toi vers la cuisine,navigate,kitchen
+Déplace le robot vers le salon,navigate,living_room
+Amène-toi dans la chambre,navigate,bedroom
+Va à la salle de bain,navigate,bathroom
+Rejoins la cuisine,navigate,kitchen
+Aller dans le salon,navigate,living_room
+Positionne-toi dans le bureau,navigate,office
+Je voudrais aller dans la chambre,navigate,bedroom
+Peux-tu te rendre dans la cuisine ?,navigate,kitchen
+Va directement au salon,navigate,living_room
+Arrête le robot,stop,
+Stoppe-toi,stop,
+Arrête-toi immédiatement,stop,
+Stop,stop,
+Ne bouge plus,stop,
+Immobilise le robot,stop,
+Mets-toi à l'arrêt,stop,
+Annule le déplacement,stop,
+Interromps le mouvement,stop,
+Arrête ton déplacement,stop,
+Je veux que tu t'arrêtes,stop,
+Peux-tu arrêter le robot ?,stop,
+Arrête tout,stop,
+Cesse de bouger,stop,
+Stop immédiatement,stop,
+N'avance plus,stop,
+Reste immobile,stop,
+Freine et arrête-toi,stop,
+Interromps la navigation,stop,
+Arrête le mouvement,stop,
+Prends la bouteille,pick,bottle
+Ramasse la bouteille,pick,bottle
+Attrape la bouteille,pick,bottle
+Prends le livre,pick,book
+Ramasse le livre,pick,book
+Attrape le livre,pick,book
+Prends la tasse,pick,cup
+Ramasse la tasse,pick,cup
+Prends le téléphone,pick,phone
+Ramasse le téléphone,pick,phone
+Attrape le téléphone,pick,phone
+Prends le stylo,pick,pen
+Ramasse le stylo,pick,pen
+Prends la boîte,pick,box
+Ramasse la boîte,pick,box
+Attrape la tasse,pick,cup
+Va chercher la bouteille,pick,bottle
+Va chercher le livre,pick,book
+Récupère le téléphone,pick,phone
+Récupère la boîte,pick,box
+Quel est ton état ?,report,
+Donne-moi ton état,report,
+Quel est l'état du robot ?,report,
+Peux-tu me donner ton état ?,report,
+Comment vas-tu ?,report,
+Comment fonctionne le robot ?,report,
+Donne-moi un rapport,report,
+Quel est ton statut ?,report,
+Quel est le statut du robot ?,report,
+Fais-moi un rapport,report,
+Donne-moi les informations sur ton état,report,
+Indique-moi ton état actuel,report,
+Comment est ta situation actuelle ?,report,
+Est-ce que tout va bien ?,report,
+Le robot fonctionne-t-il ?,report,
+Donne-moi l'état actuel du système,report,
+Quel est ton état actuel ?,report,
+Peux-tu vérifier ton état ?,report,
+Rapporte ton état,report,
+Informe-moi sur ton état,report,
